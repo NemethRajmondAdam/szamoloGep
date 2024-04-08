@@ -44,6 +44,11 @@ namespace szamoloGep
             return van;
         }
 
+        static void Osszesito(int id,List<int> muveletek)
+        {
+            for(int i = id; i < S)
+        }
+        
         static List<int> ZarojelKereso(string input)
         {
             List<int> indexek = new List<int>();
